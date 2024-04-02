@@ -38,4 +38,12 @@
   </a>
 </div>
 
+<ul>
+  <li> <a href="https://tomm256.github.io/NFS-Rivals/">Сайт видеоигры</a></li>
+  <li> <a href="https://tomm256.github.io/Jeopardy/">Своя игра</a></li>
+  <li> <a href="https://tomm256.github.io/keyboard/">Виртуальная клавиатура</a></li>
+  <li> <a href="https://tomm256.github.io/Weather/">Приложение погода</a></li>
+  <li> <a href="https://tomm256.github.io/Kinopoisk/">Приложение поиска фильмов</a></li>
+   <li> <a href="https://tomm256.github.io/SPA/">Поиск пользователей GitHub</a></li>
+</ul>
 ###
